@@ -1,4 +1,4 @@
-# Hi, We're Blockchainsure 👋
+# Hi, We're Blockchainsure.
 
 At Blockchainsure, we're building insurance protocols that strategically de-risk the world's most pressing challenges.<br>
 
